@@ -1,0 +1,1 @@
+Simple Terminal Password Generator utilizing the Mersenne Twister python random module, generates a password combo based off of user input number of Characters, Numbers and Symbols.
